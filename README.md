@@ -1,4 +1,4 @@
-# CVM Claims Data Analysis (2016–2018) - README
+# CVM Claims Analytics: HCP Behavior and Patient Insights (2016–2018)
 
 ## Project Overview
 This project focuses on analyzing Medicare Chronic Vascular Management (CVM) claims from 2016 to 2018 to identify trends and provide actionable insights for optimizing sales force deployment, marketing strategies, and resource allocation.

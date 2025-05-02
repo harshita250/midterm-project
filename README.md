@@ -73,4 +73,4 @@ This project focuses on analyzing Medicare Chronic Vascular Management (CVM) cla
 ---
 
 ## Contact
-For any questions or collaboration inquiries, please reach out to the project owner.
+For any questions or collaboration inquiries, please reach out to harshitahiremath17@gmail.com
